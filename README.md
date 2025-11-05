@@ -1,2 +1,2 @@
 # TypeScript
-TypeScript projects currently on my raspberry pi5
+Personal TypeScript utilities and web apps for Raspberry Pi 5”
